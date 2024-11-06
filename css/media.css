@@ -1,0 +1,504 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header {
+    padding: 9px 0;
+}
+.m_nav h1 {
+    font-size: 20px;
+}
+.menu ul li a {
+    padding: 12px 2px !important;
+} 
+.btn_dd {
+    width: 248px;
+    padding: 5px 10px;
+}  
+.btn_dd[data-bs-popper] {
+    top: -12px;
+    left: 37PX;
+}
+/*banner start*/
+.slider {
+    margin: 120px 0 120px;
+}  
+.slider h1 {
+    font-size: 27px;
+}
+.slider p {
+    padding: 25px 0;
+}
+.btn_cm {
+    padding: 15px 15px;
+}
+/*welcome start*/
+.welcome{
+    padding: 60px 0 80px;
+}
+.cm_h1{
+    font-size: 25px;
+}
+.wel_p {
+    padding-top: 30px;
+}
+/*about start*/ 
+.about {
+    padding-bottom: 80px;
+}
+.about_img {
+    margin-bottom: 40px;
+}
+.about_text {
+    margin-left: 0;
+}
+.btn_cm {
+    padding: 9px 9px;
+}
+/*service start*/
+.service_p p {
+    padding-bottom: 70px;
+}
+.c_service {
+    margin-top: 60px;
+}
+/*feature start*/
+.feature_shape {
+    width: 300px;
+}
+/*worker start*/
+.wokrer_h1 {
+    padding-bottom: 30px;
+}
+.w_item {
+    margin-top: 30px;
+}
+/*pricing start*/
+.p_item {
+    margin-top: 30px;
+}
+.c_pb {
+    padding-bottom: 60px;
+}
+/*tempalte start*/
+.template {
+    margin-bottom: 60px;
+}
+.t_text {
+    text-align: center;
+}
+.t_h2 {
+    font-size: 16px;
+    padding: 37px 0 0 0;
+}
+.t_button {
+    text-align: center !important;
+}
+/*deviser start*/
+.d_item {
+    padding: 18px 15px;
+}
+.d_h1 {
+    padding-top: 20px;
+}
+.d_h2 {
+    padding: 10px 0;
+}
+.d_p1 {
+    padding: 20px 0 ;
+}
+.indicator1 {
+    writing-mode: horizontal-tb;
+    padding: 22px 0;
+}
+.btn_d1 {
+   padding-bottom: 0; 
+   padding-top: 0;
+   padding-left: 30px;
+   padding-right: 70px;
+}
+.btn_d2 {
+    padding-bottom: 0; 
+    padding-top: 0;
+    padding-left: 70px;
+}
+.span_2 {
+    padding: 0px 2px;
+}
+/*contact start*/
+.contact_h1 {
+    padding-bottom: 55px;
+}
+.c_submit {
+    margin-left: -25px;
+    width: 172px;
+    padding: 10px 17px;
+}
+/*footer start*/
+.footer_top {
+    padding: 70px 0;
+}
+.f_text p {
+    padding: 40px 15px 40px;
+}
+.f_icon i {
+    font-size: 17px;
+    padding: 10px 10px;
+}
+.footer_bottom {
+    padding: 18px 0;
+}
+.f_shape {
+    margin-top: -120px;
+}
+.f_p {
+    margin: 15px 0;
+    font-size: 13px;
+    text-align: center;
+}
+.ft_links {
+    text-align: center;
+    margin: 10px 0;
+}
+.ft_links ul li a {
+    font-size: 13px;
+    margin-left: 5px;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header {
+    padding: 9px 0;
+}
+.menu ul li a {
+    padding: 12px 2px !important;
+}   
+.btn_dd[data-bs-popper] {
+    top: -12px;
+    left: 50PX;
+}
+/*banner start*/
+.slider {
+    margin: 135px 0 135px;
+}  
+.slider h1 {
+    font-size: 42px;
+}
+.slider p {
+    padding: 30px 45px 30px 0;
+}
+/*welcome start*/
+.welcome {
+    padding: 60px 0 80px;
+}
+.wel_p {
+    line-height: 25px;
+    padding-top: 30px;
+}
+/*about start*/ 
+.about {
+    padding-bottom: 80px;
+}
+.about_img {
+    margin-bottom: 40px;
+}
+.about_text {
+    margin-left: 0;
+}
+.btn_cm {
+    padding: 9px 9px;
+}
+/*service start*/
+.service_p p {
+    padding-bottom: 70px;
+}
+.c_service {
+    margin-top: 60px;
+}
+/*feature start*/
+.f_item {
+    padding-left: 110px;
+}
+.feature_title p {
+    margin: 40px 100px 40px 0;
+}
+/*worker start*/
+.wokrer_h1 {
+    padding-bottom: 30px;
+}
+.w_item {
+    margin-top: 30px;
+}
+/*pricing start*/
+.p_item {
+    margin-top: 30px;
+}
+.c_pb {
+    padding-bottom: 60px;
+}
+/*tempalte start*/
+.template {
+    margin-bottom: 60px;
+}
+.t_text {
+    text-align: center;
+}
+.t_h2 {
+    font-size: 18px;
+    padding: 37px 0 0 0;
+}
+.t_button {
+    text-align: center !important;
+}
+/*deviser start*/
+.d_item {
+    padding: 18px 15px;
+}
+.d_h1 {
+    padding-top: 20px;
+}
+.d_h2 {
+    padding: 10px 0;
+}
+.d_p1 {
+    padding: 20px 0 ;
+}
+.indicator1 {
+    writing-mode: horizontal-tb;
+    padding: 22px 0;
+}
+.btn_d1 {
+   padding-bottom: 0; 
+   padding-top: 0;
+   padding-left: 50px;
+   padding-right: 160px;
+}
+.btn_d2 {
+    padding-bottom: 0; 
+    padding-top: 0;
+    padding-left: 160px;
+}
+.span_2 {
+    padding: 0px 2px;
+}
+/*footer start*/
+.footer_bottom {
+    padding: 30px 0;
+}
+.f_shape {
+    margin-top: -120px;
+}
+.f_p {
+    text-align: center;
+    margin: 10px 0;
+}
+.ft_links {
+    text-align: center;
+    margin: 10px 0;
+}
+.ft_links ul li a {
+    margin-left: 18px;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 12px 2px !important;
+}	
+.btn_dd[data-bs-popper] {
+    top: -12px;
+    left: 50PX;
+}
+/*banner start*/
+.slider {
+    margin: 160px 0 160px;
+}  
+.slider h1 {
+    font-size: 42px;
+}
+.slider p {
+    padding: 30px 151px 30px 0;
+}
+/*welcome start*/
+.welcome {
+    padding: 60px 0 80px;
+}
+/*about start*/ 
+.about {
+    padding-bottom: 100px;
+}
+.about_img {
+    margin-bottom: 40px;
+}
+.about_text {
+    margin-left: 0;
+}
+/*service start*/
+.service_p p {
+    padding-bottom: 70px;
+}
+.c_service {
+    margin-top: 60px;
+}
+/*feature start*/
+.feature_shape {
+    width: 300px;
+}
+/*worker start*/
+.wokrer_h1 {
+    padding-bottom: 50px;
+}
+.w_item {
+    margin-top: 30px;
+}
+/*pricing start*/
+.p_item {
+    margin-top: 30px;
+}
+.c_pb {
+    padding-bottom: 80px;
+}
+/*tempalte start*/
+.template {
+    margin-bottom: 80px;
+}
+
+/*--deviser start*/
+.d_item {
+    padding: 20px 20px;
+}
+.d_h1 {
+    padding-top: 20px;
+}
+.d_h2 {
+    padding: 10px 0;
+}
+.d_p1 {
+    padding: 20px 0 ;
+}
+.indicator1 {
+    writing-mode: horizontal-tb;
+    padding: 22px 0;
+}
+.span_2 {
+    padding: 0px 2px;
+}
+.btn_d1 {
+    padding-bottom: 0; 
+    padding-top: 0;
+    padding-right: 250px;
+    padding-left: 50px;
+}
+.btn_d2 {
+    padding-bottom: 0; 
+    padding-top: 0;
+    padding-left: 250px;
+}
+/*footer start*/
+.f_p{
+    font-size: 13px;
+}
+.ft_links {
+    margin-left: 20px;
+}
+.ft_links ul li a { 
+    margin-left: 0;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/  
+.slider {
+    margin: 180px 0 180px;
+}  
+.slider h1 {
+    font-size: 48px;
+}
+/*about start*/ 
+.about_text p {
+    margin-top: 12px;
+}
+.btn_about {
+    margin-top: 18px;
+}
+/*feature start*/
+.feature_title p {
+    margin: 40px 42px 40px 0;
+}
+.feature_shape {
+    width: 280px;
+}
+/*worker start*/
+.wokrer_h1 {
+    padding-bottom: 70px;
+}
+.w_item {
+    margin-top: 30px;
+}
+.w_text {
+    padding-left: 12px;
+}
+.w_text h2 {
+    font-size: 17px;
+}
+/*--deviser start*/
+.d_h2 {
+    padding: 8px 0;
+}
+.d_p1 {
+    padding: 20px 0 20px 0;
+}
+.indicator1 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.btn_d2{
+    padding-top: 107px;
+}
+.btn_d1{
+    padding-bottom: 107px;
+}
+/*footer start*/
+.f_text p {
+    padding: 40px 15px 40px;
+}
+.f_icon i {
+    font-size: 22px;
+    padding: 12px 14px;
+}
+.f_p{
+    font-size: 15px;
+}
+.ft_links ul li a { 
+    margin-left: 12px;
+}
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*--deviser start*/
+.indicator1 {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.btn_d2{
+    padding-top: 140px;
+}
+.btn_d1{
+    padding-bottom: 140px;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*about start*/ 
+.about_text p {
+    margin-top: 50px;
+    line-height: 28px;
+}
+.btn_about {
+    margin-top: 50px;
+}
+/*pricing start*/
+
+}
